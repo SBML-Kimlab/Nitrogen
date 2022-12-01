@@ -5,4 +5,4 @@ FBA analysis and MCMC sampling were performed with the iML1515 E. coli metabolic
 The distribution of feasible fluxes for each reaction in the iML1515 model was determined using MCMC sampling. The biomass objective function was provided a lower bound of 95% of the optimal growth rate as computed by FBA. Thus, the sample flux distributions by MCMC sampling method represented sub-optimal flux distributions. MCMC sampling was used to obtain 10,000 feasible flux distributions, and the average of flux samples for each reaction was used.
 
 
-![Synopsis Figure](https://user-images.githubusercontent.com/42198206/205002221-6eafcaf5-bdb3-49ba-856a-d83bae25682f.png)
+![Synopsis Figure](https://user-images.githubusercontent.com/42198206/205002221-6eafcaf5-bdb3-49ba-856a-d83bae25682f.png){: width="60%" height="60%"}
