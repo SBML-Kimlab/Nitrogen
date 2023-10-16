@@ -1,6 +1,6 @@
 In this repository, you will find the ME-model-driven TF prediction Python scripts using Cobrame. 
 
-We used the M-model (iML1515) to predict available nitrogen sources and then applied it to predict expression values in the ME-model(iJL1678b.json).
+We used the M-model (iML1515) to predict available nitrogen sources and then applied it to predict expression values in the ME-model (iJL1678b.json).
 
 The ME-model expression values, along with the TF regulon table (reg3.pickle and regulation_unfiltered_2.pickle), were used to predict the activation of transcription factors, including NtrC and Nac, using the hypergeometric distribution (p-value < 0.05).
 
