@@ -1,3 +1,5 @@
+![Nitrogen](https://github.com/SBML-Kimlab/Nitrogen_GSM/assets/67301306/d6c965b1-787a-43f0-a262-efcace5cd0f2)
+
 In this repository, you will find the ME-model-driven TF prediction Python scripts using Cobrame. 
 
 We used the M-model (iML1515) to predict available nitrogen sources and then applied it to predict expression values in the ME-model (iJL1678b.json).
